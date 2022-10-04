@@ -1,0 +1,41 @@
+{
+  "name": "TROGG #4967",
+  "symbol": "TROGG",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://arweave.net/5OOGsOE-W-8r5UCbAuLE2goNtJfHgkHGaYO-pcwNNoE?ext=png",
+  "attributes": [
+  {
+      "trait_type": "Background",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tanned"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ripped Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Octobeard"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
